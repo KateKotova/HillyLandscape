@@ -1,0 +1,22 @@
+<tilesHeight YRowsCount="2" XColumnsCount="2">
+  <yRow>
+    <xColumn>
+      <type>UNDEFINED</type>
+      <height>0</height>
+    </xColumn>
+    <xColumn>
+      <type>UNDEFINED</type>
+      <height>-100</height>
+    </xColumn>   
+  </yRow>
+  <yRow>
+    <xColumn>
+      <type>UNDEFINED</type>
+      <height>0</height>
+    </xColumn>
+    <xColumn>
+      <type>UNDEFINED</type>
+      <height>-150</height>
+    </xColumn>
+  </yRow>
+</tilesHeight>

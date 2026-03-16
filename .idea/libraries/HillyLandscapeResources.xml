@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="HillyLandscapeResources" type="flex">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/assets/HillyLandscapeResources.swc!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

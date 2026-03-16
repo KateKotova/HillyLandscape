@@ -1,0 +1,144 @@
+<tilesHeight YRowsCount="5" XColumnsCount="5">
+  <!--В этой строке не хватает столбцов: должно быть 5, а есть только 2 - остальные 3 дополнятся при загрузке.-->
+  <yRow>
+    <xColumn>
+      <type>CRATER</type>
+      <height>-100.56</height>
+    </xColumn>
+    <xColumn>
+      <type>EXPLOSION</type>
+      <height>120</height>
+    </xColumn>   
+  </yRow>
+  <yRow>
+    <xColumn>
+      <type>UNDEFINED</type>
+      <!--Здесь не указана высота - должна замениться.-->
+      <height></height>
+    </xColumn>
+    <xColumn>
+      <!--Здесь не верный тип тайла, такого нет.-->
+      <type>AAAAAAA</type>
+      <!--Здесь высота - не являетс числом.-->
+      <height>ASD</height>
+    </xColumn>
+    <xColumn>
+      <type>GROUND</type>
+      <!--Здесь высота - плюс бесконечность.-->
+      <height>Infinity</height>
+    </xColumn>
+    <xColumn>
+      <type>GROUND</type>
+      <!--Здесь высота - минус бесконечность.-->
+      <height>-Infinity</height>
+    </xColumn>
+    <xColumn>
+      <type>GROUND</type>
+      <!--Здесь высота - null.-->
+      <height>null</height>
+    </xColumn>
+    <!--Столбцы ниже - лишние, их больше, чем 5 - количество столбцов.-->
+    <xColumn>
+      <type>GROUND</type>
+      <height>10</height>
+    </xColumn>
+    <xColumn>
+      <type>GROUND</type>
+      <height>14</height>
+    </xColumn>    
+  </yRow>
+  <yRow>
+    <xColumn>
+      <!--Здесь тип - пустая строка.-->
+      <type></type>
+      <!--Высота - огромное отрицательное число.-->
+      <height>-99999999999999999</height>
+    </xColumn>
+    <xColumn>
+      <type>GROUND1111</type>
+      <!--Высота - огромное положительное число.-->
+      <height>9999999999999999999999999</height>
+    </xColumn>
+    <xColumn>
+      <type>CRATER</type>
+      <height>30</height>
+    </xColumn>
+    <xColumn>
+      <type>GROUND</type>
+      <height>-15</height>
+    </xColumn>
+    <xColumn>
+      <type>EXPLOSION</type>
+      <!--Высота за пределами границ [-150: 150]-->
+      <height>200</height>
+    </xColumn>
+    <!--Столбцы ниже - лишние, их больше, чем 5 - количество столбцов.-->
+    <xColumn>
+      <type>EXPLOSION</type>
+      <height>20</height>
+    </xColumn>
+    <xColumn>
+      <type>GROUND</type>
+      <height>0</height>
+    </xColumn>
+  </yRow>
+  <!--Здесь вообще нет ни одноого столбца.-->
+  <yRow />
+  <!--В этой строке не хватает столбцов.-->
+  <yRow>
+    <!--Этот столбец не содержит ни типа, ни высоты.-->
+    <xColumn>
+    </xColumn>
+    <!--Этот столбец не содержит типа.-->
+    <xColumn>
+      <height>135</height>
+    </xColumn>
+    <!--Этот столбец не содержит высоты.-->
+    <xColumn>
+      <type>CRATER</type>
+    </xColumn>
+  </yRow>
+  <!--Эта строка уже лишняя.-->
+  <yRow>
+    <xColumn>
+      <type>GROUND</type>
+      <height>10</height>
+    </xColumn>
+    <xColumn>
+      <type>GROUND</type>
+      <height>10</height>
+    </xColumn>
+    <xColumn>
+      <type>GROUND</type>
+      <height>10</height>
+    </xColumn>
+    <xColumn>
+      <type>GROUND</type>
+      <height>10</height>
+    </xColumn>
+    <xColumn>
+      <type>GROUND</type>
+      <height>10</height>
+    </xColumn>
+    <xColumn>
+      <type>GROUND</type>
+      <height>10</height>
+    </xColumn>
+    <xColumn>
+      <type>GROUND</type>
+      <height>10</height>
+    </xColumn>
+    <xColumn>
+      <type>GROUND</type>
+      <height>10</height>
+    </xColumn>
+    <xColumn>
+      <type>GROUND</type>
+      <height>10</height>
+    </xColumn>
+    <xColumn>
+      <type>GROUND</type>
+      <height>10</height>
+    </xColumn>
+  </yRow>
+</tilesHeight>
